@@ -43,3 +43,4 @@ C:\Users\fgdgf\Downloads\RecRoom-Live-Servers-main\RecRoom-Live-Servers-main\Rec
 C:\Users\fgdgf\Downloads\RecRoom-Live-Servers-main\RecRoom-Live-Servers-main\Recroom2020 working\Stella-main\obj\Debug\net8.0\ref\Stella.dll
 C:\Users\fgdgf\Downloads\RecRoom-Live-Servers-main\RecRoom-Live-Servers-main\Recroom2020 working\stella-main\obj\Debug\net8.0\scopedcss\scopedcss.cache
 C:\Users\fgdgf\Downloads\RecRoom-Live-Servers-main\RecRoom-Live-Servers-main\Recroom2020 working\stella-main\bin\Debug\net8.0\Data\hotrooms_seed.json
+C:\Users\fgdgf\Downloads\RecRoom-Live-Servers-main\RecRoom-Live-Servers-main\Recroom2020 working\stella-main\obj\Debug\net8.0\Stella.sourcelink.json

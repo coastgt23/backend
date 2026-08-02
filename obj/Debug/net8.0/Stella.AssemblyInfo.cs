@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stella")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f8f386d2bed28b0256ff5a3f6e975e06c985efa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stella")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stella")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
