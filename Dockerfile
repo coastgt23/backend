@@ -15,4 +15,4 @@ COPY --from=build /out .
 
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "YourApp.dll"]
+ENTRYPOINT ["dotnet", "Stella.dll"]
